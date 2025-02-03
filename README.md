@@ -1,5 +1,5 @@
 # AstroDay
-É um aplicativo chamado "APOD"(Imagem Astronômica do Dia) fornecida pela NASA. O aplicativo busca os dados da API APOD da NASA, exibi a imagem ou vídeo do dia, juntamente com informações relevantes como título, descrição e data. APOD pode apresenta tanto imagens quanto vídeos, o aplicativo lida com ambos os tipos de mídia de forma eficaz.
+É um aplicativo "APOD"(Imagem Astronômica do Dia) fornecida pela NASA. O aplicativo busca os dados da API APOD da NASA, exibi a imagem ou vídeo do dia, juntamente com informações relevantes como título, descrição e data. APOD pode apresentar tanto imagens quanto vídeos, o aplicativo lida com ambos os tipos de mídia de forma eficaz.
 
 ## Instruções para executar o projeto:
 1. Faça o clone deste repositório;
