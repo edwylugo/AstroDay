@@ -1,0 +1,15 @@
+"nav_title_favorites" = "Favorites";
+"nav_title_settings" = "Settings";
+"label_text_theme" = "Mode Dark/Light";
+"text_no_favorite" = "No APODs have been added\nto your favorites";
+"text_no_found" = "No APODs have been found";
+"text_what_a_shame" = "What a shame!";
+"button_text_closed" = "X";
+"button_more" = "more";
+"button_hide" = "hide";
+"text_toast_already_added" = "APOD has already been added to favorites.";
+"text_toast_successfully_added" = "APOD successfully added to favorites.";
+"text_toast_removed" = "APOD successfully removed.";
+"text_toast_not_found" = "Error: APOD with title %@ not found.";
+"button_text_ok" = "OK";
+"button_text_cancel" = "Cancel";
